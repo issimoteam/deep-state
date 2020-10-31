@@ -5,7 +5,7 @@ A simple state store. Performs a deep comparison before calling the callbacks.
 ```ts
 const state = State();
 
-const cleanup = state.subscrube((prev, next) => {
+const cleanup = state.subscribe((prev, next) => {
   // stuff
 });
 
