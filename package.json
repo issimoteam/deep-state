@@ -1,0 +1,30 @@
+{
+  "name": "@sebastbake/deep-state",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastBake/deep-state.git"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "tags": [
+    "store",
+    "typescript"
+  ],
+  "dependencies": {
+    "fast-deep-equal": "^3.1.3"
+  }
+}
