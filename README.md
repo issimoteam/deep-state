@@ -1,3 +1,8 @@
+![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/deep-state)
+![downloads](https://img.shields.io/npm/dw/@sebastbake/deep-state)
+![npm](https://img.shields.io/npm/v/@sebastbake/deep-state)
+![GitHub](https://img.shields.io/github/license/sebastbake/deep-state)
+
 # deep-state
 
 A simple state store. Performs a deep comparison before calling the callbacks.
