@@ -1,11 +1,11 @@
 {
-  "name": "@sebastbake/deep-state",
-  "version": "1.0.1",
+  "name": "@issimo/deep-state",
+  "version": "1.0.0",
   "description": "A simple state store. Performs a deep comparison before calling the callbacks.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SebastBake/deep-state.git"
+    "url": "git+https://github.com/issimoteam/deep-state.git"
   },
   "scripts": {
     "build": "npx tsc",

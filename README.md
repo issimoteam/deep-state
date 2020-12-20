@@ -1,9 +1,9 @@
 A simple state store. Performs a deep comparison before calling the callbacks.
 
-[![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/deep-state)](https://bundlephobia.com/result?p=@sebastbake/deep-state)
-[![downloads](https://img.shields.io/npm/dw/@sebastbake/deep-state)](https://www.npmjs.com/package/@sebastbake/deep-state)
-[![npm](https://img.shields.io/npm/v/@sebastbake/deep-state)](https://www.npmjs.com/package/@sebastbake/deep-state)
-[![GitHub](https://img.shields.io/github/license/sebastbake/deep-state)](https://github.com/SebastBake/deep-state)
+[![size](https://img.shields.io/bundlephobia/minzip/@issimo/deep-state)](https://bundlephobia.com/result?p=@issimo/deep-state)
+[![downloads](https://img.shields.io/npm/dw/@issimo/deep-state)](https://www.npmjs.com/package/@issimo/deep-state)
+[![npm](https://img.shields.io/npm/v/@issimo/deep-state)](https://www.npmjs.com/package/@issimo/deep-state)
+[![GitHub](https://img.shields.io/github/license/issimoteam/deep-state)](https://github.com/issimoteam/deep-state)
 
 ```ts
 const state = State();
